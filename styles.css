@@ -320,7 +320,7 @@ h2.section-title {
 
 /* ===== Main Header ===== */
 .main-header {
-    background: url('images/header-image.jpg') no-repeat center center;
+    background: url('header-image.jpg') no-repeat center center;
     background-size: cover;
     padding: 16px 0;
     position: relative;
