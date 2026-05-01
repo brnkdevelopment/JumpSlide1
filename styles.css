@@ -320,7 +320,7 @@ h2.section-title {
 
 /* ===== Main Header ===== */
 .main-header {
-    background: url('images/header-image.jpg') no-repeat center center;
+    background: url('header-image.jpg') no-repeat center center;
     background-size: cover;
     padding: 16px 0;
     position: relative;
@@ -1228,27 +1228,27 @@ body.mobile-nav-open .mobile-nav-drawer {
 
 /* Specific Category Backgrounds */
 .cat-bouncers-slides {
-    background-image: url('images/js1.jpg');
+    background-image: url('js1.jpg');
 }
 
 .cat-water-slides {
-    background-image: url('images/js2.jpg');
+    background-image: url('js2.jpg');
 }
 
 .cat-obstacle-courses {
-    background-image: url('images/js3.jpg');
+    background-image: url('js3.jpg');
 }
 
 .cat-inflatable-games {
-    background-image: url('images/js4.jpg');
+    background-image: url('js4.jpg');
 }
 
 .cat-carnival-attractions {
-    background-image: url('images/js5.jpg');
+    background-image: url('js5.jpg');
 }
 
 .cat-bounce-houses {
-    background-image: url('images/js6.jpg');
+    background-image: url('js6.jpg');
 }
 
 /* Promo Banners */
@@ -1810,7 +1810,7 @@ body.mobile-nav-open .mobile-nav-drawer {
 
 /* Footer */
 .footer {
-    background: url('images/footer-image.jpg') no-repeat center center;
+    background: url('footer-image.jpg') no-repeat center center;
     background-size: cover;
     position: relative;
 }
